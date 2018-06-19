@@ -2,7 +2,7 @@
 
 A web application in `Django` and `MySQL` that can dynamically convert any CSV file to a MySQL table.
 <br>
-It can transform any two converted CSV file using MySQL operations like Join, Sort &load data from source to target data layer.
+It can transform any two converted CSV file using MySQL operations like Join, Sort and loads data from source to target data layer.
 
 
 
